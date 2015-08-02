@@ -1,0 +1,19 @@
+{
+  "name": "http-errors",
+  "version": "0.0.1",
+  "description": "Error classes for HTTP error codes.",
+  "contributors": [
+    "Will Shulman <will@objectlabs.com>"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/carbon-io/http-errors"
+  },
+  "main": "./lib/HttpErrors.js",
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "dependencies": {
+  },
+  "preferGlobal": false
+}
