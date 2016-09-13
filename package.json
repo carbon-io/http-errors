@@ -1,6 +1,6 @@
 {
   "name": "http-errors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Error classes for HTTP error codes.",
   "contributors": [
     "Will Shulman <will@objectlabs.com>"
