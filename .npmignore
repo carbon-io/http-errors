@@ -30,4 +30,4 @@ node_modules
 .python-version
 
 # docs
-docs/_build/*
+docs/*
