@@ -1,6 +1,6 @@
 {
   "name": "@carbon-io/http-errors",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Error classes for HTTP error codes.",
   "contributors": [
     "Will Shulman <will@objectlabs.com>"
